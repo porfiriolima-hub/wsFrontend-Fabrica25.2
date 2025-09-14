@@ -1,7 +1,9 @@
+//import { PokeBusca } from "./componets/pokeBusca";
+
 export default function Home() {
   return (
     <main>
-      <div>Hello world!</div>
+      
     </main>
   );
 }
